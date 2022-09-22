@@ -1,0 +1,77 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/img/Scéalta_Grá-na_hÉireann_RobertEmmet_SarahCurran_JohnKelly_JaneSullivan_03_edited.webp);
+    background-size: cover;
+    background-position: center;
+}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: azure;
+}
+.content h1{
+    font-size: 70px;
+}
+.content p{
+    font-size: 40px;
+    line-height: 80px;
+}
+.content h3{
+    font-size: 20px;
+}
+.john{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+    line-height: 100px;
+}
+.text{
+    text-align: center;
+    margin-top: 5%;
+      
+}
+.details{
+    text-align: center;
+    line-height: 100px;
+}
+.rose{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/img/81d38294c8b62906bb88cd0667195f22.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.invite{
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    color: rgb(2, 3, 3);
+    top: 290%;
+    
+}
+.invite h1{
+    font-size: 40px;
+    line-height: 100px;
+}
+.the{
+    text-align: center;
+    line-height: 150px;
+}
+.times{
+    display: flex;
+    line-height: 100%;
+}
+.rcved{
+    text-align: center;
+    line-height: 50px;
+
+}
+
