@@ -2,13 +2,7 @@
     margin: 0%;
     padding: 0%;
 }
-.banner{
-    width: 100%;
-    height: 100vh;
-    background-image: url(/img/Scéalta_Grá-na_hÉireann_RobertEmmet_SarahCurran_JohnKelly_JaneSullivan_03_edited.webp);
-    background-size: cover;
-    background-position: center;
-}
+
 .content{
     width: 100%;
     position: absolute;
